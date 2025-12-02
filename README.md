@@ -1,2 +1,2 @@
 # VeriNexus
-The offical implementation of paper 'VeriNexus: A Unified Reasoning Framework for Explainable Scene Text Forgery Grounding'
+The offical implementation of paper 'LogicLens: Visual-Textual Co-reasoning for Text-Centric Forgery Analysis'
